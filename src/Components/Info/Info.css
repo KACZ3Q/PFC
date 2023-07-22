@@ -1,0 +1,22 @@
+.main_container{
+    text-align: center;
+    margin-block: 50px;
+}
+p{
+    word-wrap: break-word;
+    padding-block: 15px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    color: #092753;
+    width: auto;
+}
+.info_container{
+    margin-block: 10px;
+    margin: 0 auto;
+    width: 60%;
+}
+.info_title{
+    width: 70%;
+    margin: 0 auto;
+}
